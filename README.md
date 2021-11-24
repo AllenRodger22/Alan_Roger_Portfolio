@@ -1,2 +1,3 @@
 # Alan_Roger_Portfolio
-My Data Science Portfolio
+
+# Project 1 - Grocery Store(https://github.com/AllenRodger22/Alan_Roger_Portfolio/blob/main/grocery-store-association-rules.ipynb)
