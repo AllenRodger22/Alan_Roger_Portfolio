@@ -7,3 +7,6 @@ There's a dataset from a company and let's try to make a model that predict if s
 # [Project 3 - Customer Segmentation](https://github.com/AllenRodger22/Alan_Roger_Portfolio/blob/main/Marketing_Project.ipynb)
 There's a dataset from a Marketing Department and let's  make a clusterization of the customers with KMeans.
 
+# [Project 4 - Sales Prediction](https://github.com/AllenRodger22/Alan_Roger_Portfolio/blob/main/Sales_Prediction_Project.ipynb)
+There's a dataset from Stores and Sales data, so let's make a Sales Prediction model with Facebook Prophet.
+
