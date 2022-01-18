@@ -1,0 +1,17 @@
+from ast import Break
+from bs4 import BeautifulSoup
+import csv
+import requests
+import pandas as pd
+ 
+page = ""
+url = 'https://www.fundsexplorer.com.br/funds/'
+
+def get_soup(page):
+    soup = BeautifulSoup(content,'lxml')
+    response = requests.get(url + page)
+    return soup
+
+fii_list = pd.read_csv('list_name_fii.csv')
+
+print(fii_list.head(5))
