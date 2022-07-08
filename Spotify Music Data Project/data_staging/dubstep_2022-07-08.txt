@@ -1,0 +1,21 @@
+id,popularity,name
+7xnElMPFCmSlMJ0AY2hnxc,76,Dead To Me - Slow + Reverb
+39glqzRVRAy4vq3PqeTGb8,69,Love Is Gone
+10Q3ASy9okYt85040yV46c,66,Shivering (feat. Spiritbox)
+1g7j5AxiNKTGjryhFIlAsA,66,Story Of My Life (feat. Trippie Redd)
+2CgOd0Lj5MuvOqzqdaAXtS,66,Shelter
+5dAtKXyrQoQW054LZqJ5dP,66,Feel Something (With I Prevail)
+6pooRNiLyYpxZeIA5kJ5EX,65,Good Things Fall Apart (with Jon Bellion)
+2eFjKl5cyPPYElDByCh6Tb,64,First Time
+70YPzqSEwJvAIQ6nMs1cjY,64,In Your Arms (with X Ambassadors)
+786ymAh5BmHoIpvjyrvjXk,64,Goodbye To A World
+3LxG9HkMMFP0MZuiw3O2rF,63,Good Things Fall Apart (with Jon Bellion)
+4s9eMbBfWUDtBEFHC7sNp7,63,First Time
+5bFuHlXKw66Uu2cHKn5bf8,63,Alive
+2bCjaF7cRm53Wdq9RtkYJu,61,Neck And Neck - DNMO Remix
+6btkdvumrTmcFzy3oFpZqS,61,Thief - Flux Pavilion Remix
+1JY6B9ILvmRla2IKKRZvnH,61,Sad Machine
+0q7oMII7kWTj1ZSX6GT6LU,59,Crawl Outta Love
+6qLM7FY8SPWYIyKKhzzVO0,58,Here With Me
+2U0pVx4m1Kdm1Gsjjm6iq8,57,Strangers
+707qqokrSYnzJO5FoGIvFL,57,Me and You

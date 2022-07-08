@@ -1,0 +1,21 @@
+id,popularity,name
+2qmG7dokbGpDGD0T5wORWt,85,Balanço da Rede
+5lCAtKxkZL6tFDyGX9t87j,76,Eu Já Tava Bem - Ao Vivo
+5emL18Je5WuruMhWr0gj4w,76,Eu Já Tava Bem - Ao Vivo
+5etfNcFAD9M8uibXpYMxfQ,75,Tu Tava Na Revoada - Ao Vivo
+4fSHADbZbhpZCT9oJpxwbP,75,Ameaça
+1d7AtPeraWVsvI4U1YTHt1,73,Vestido Coladinho
+2RGIuYTsyyHoOCqW0krvNE,72,Coração Cachorro
+1KcLptSHclzzV3lI3RnN3f,70,Romantizou
+7tYqORINJlFugeIxDvr6eH,70,Concorrência
+6RMYuqlTn8777j5arY9zhC,69,Cena de Amor
+1bWBG6IkMnDr3qvCKSvQT7,69,Baby Me Atende
+4EDGI80o0lLwH32MOmYmc1,68,Eu Quero Só Você
+58pgi1RpcU2fVJsxhm7BIr,67,Tapão Na Raba
+4ZHr0hIIE7fAxJ2MblOuYq,67,O Amor da Sua Vida
+5ieFc5Je24mudvqFz0I8JQ,67,Me Tira do Piseiro - Ao Vivo
+41pFFOnh1glVNIlrWOpBjb,67,Se Joga no Passinho
+3ykR2GWMypq4mCWuOlSLub,0,Quando Eu Te Pegar - Ao Vivo No Casa Filtr
+5fziibcRgDM4pNSR6BG7QO,0,Tei Tei No Arraiá
+0VC3u7bGqjBpaRianAjKrO,0,Vazou um Áudio - Ao Vivo No Casa Filtr
+3WcdeYol1G5LcY3a75lDdW,0,Paredão - Ao Vivo No Casa Filtr

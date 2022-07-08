@@ -9,8 +9,8 @@ secret = config['DEFAULT']['secret']
 
 sp = spotipy.Spotify(auth_manager=spotipy.oauth2.SpotifyClientCredentials(client_id=cid,
                                                            client_secret=secret))
-list_of_genres = ['samba','eletronic','rock','folk','blues','soul','country','reggae','house','latin','dubstep','pop', 'pop rock','sertanejo','indie','lofi','romantic','forro']
-# First Fetch of data
+list_of_genres = ['samba','eletronic','rock','folk','blues','soul','country','reggae','house','latin','dubstep','pop', 'pop rock','sertanejo','indie','romantic','forro']
+# First Fetch  data
 data_raw = {}
 print('Running....')
 for genre in list_of_genres:
