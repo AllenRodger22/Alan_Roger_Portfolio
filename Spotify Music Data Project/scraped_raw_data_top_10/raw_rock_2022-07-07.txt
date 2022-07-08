@@ -1,0 +1,21 @@
+id,popularity,name
+29d0nY7TzCoi22XBqDQkiP,92,Running Up That Hill (A Deal With God) - 2018 Remaster
+2QjOHCTQ1Jl3zawyYOpxh6,90,Sweater Weather
+58ge6dfP91o9oXMzq3XkIS,82,505
+4h9wh7iOZ0GGn8QVp4RAOB,90,I Ain't Worried
+1r9xUipOqoNwggBpENDsvJ,90,Enemy (with JID) - from the series Arcane League of Legends
+0ofHAoxe9vBkTCp2UQIavz,84,Dreams - 2004 Remaster
+2tznHmp70DxMyr2XhWLOW0,79,Cigarette Daydreams
+003vvx7Niy0yvhvHt4a68B,85,Mr. Brightside
+0GO8y8jQk1PkHzS31d699N,81,Tongue Tied
+2iUmqdfGZcHIhS3b9E9EWq,81,Everybody Talks
+5ghIJDpPoe3CfHMGu71E6T,79,Smells Like Teen Spirit
+2GiJYvgVaD2HtM8GqD9EgQ,83,Electric Love
+5E30LdtzQTGqRvNd7l6kG5,86,Daddy Issues
+3JvrhDOgAt6p7K8mDyZwRd,80,Riptide
+7e89621JPkKaeDSTQ3avtg,83,Sweet Home Alabama
+2K7xn816oNHJZ0aVqdQsha,87,Softcore
+3yrSvpt2l1xhsV9Em88Pul,81,Brown Eyed Girl
+4BP3uh0hFLFRb5cjsgLqDh,82,Fortunate Son
+40riOy7x9W7GXjyGp4pjAv,84,Hotel California - 2013 Remaster
+4RvWPyQ5RL0ao9LPZeSouE,86,Everybody Wants To Rule The World
