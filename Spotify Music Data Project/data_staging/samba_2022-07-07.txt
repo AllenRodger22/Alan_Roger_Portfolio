@@ -1,0 +1,21 @@
+id,popularity,name
+3898C4AbdbptwYet6547e5,67,The Girl From Ipanema
+6U7GUjtamt2P0LcFod1dBT,64,Mas Que Nada
+3QKJELWORZZ7rUZDWeMWSA,63,Água de Beber
+36SJ7ZFx8J1f1RsewmUwMX,63,Magalenha
+7ilc2TB1RZXbQJyFs5qCiC,62,Fly Me To The Moon
+4SrJyRdyHYxxkcVMQ3QkGE,61,Corcovado (Quiet Nights Of Quiet Stars)
+209ucYTS6vWEV5iydrHiOt,61,Só Tinha De Ser Com Você
+5je0CDv1Z1hT82Nek1Fjhl,61,Só Danço Samba
+1xaTXPoDk4VOU9XhYX4KJM,59,A Nightingale Sang In Berkeley Square
+5u8bqfaYSh0qVTsgslPknf,59,Never Gonna Let You Go
+15ouqiBsgL12olEwP3COsH,59,Águas De Março
+5jBv1j7ISp1ja8e1N2oSmt,58,Para Machuchar Meu Coracao
+1XCBWtTJZuHbwa6GLUutjo,56,But Beautiful
+5nU7dvOfzYs9QVVL7YVNPE,56,Corcovado (Quiet Nights Of Quiet Stars) - Single Version
+7ByLX8Moni2MfhfbMKJ5Ll,54,Carolina Carol Bela
+4qGfJb2KByjvzrwo8HNibg,52,The Girl From Ipanema - Single Version
+6eNHrgrgbMFQpQ5qFEPL6h,45,Mas Que Nada - 2011 Rio Version
+3pemsJqLI0GXY9tlQDn8yS,45,Carta Ao Tom 74
+4u0Xdy7BizHLrcPIf7c6h2,43,"Oba, Lá Vem Ela"
+6XMDSWv7ZwM0BM0i0YJPOn,43,Samba Da Benção

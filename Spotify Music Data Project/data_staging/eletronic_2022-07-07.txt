@@ -1,0 +1,21 @@
+id,popularity,name
+10glJ8ARN1G9ESFF9s00yk,45,1542
+1SmKSLCLtgIV3w1VXow2Xk,44,Hostage
+3zL4exmKz5syzSXZJEJb5u,40,Bueno es Dios (feat. Julia Vitória)
+2vdgt2CC6hr9bCfVu9SvIF,37,Yeshua - Remix
+303M6GvGo8DGx1niNv1pVS,37,Quem Sou Eu
+55tDPzQdriJGzEX90VqUiV,36,Suddenly Funk - Original Mix
+4eReN336ty3eVDhufGdiog,36,À Dois
+2E18zSJ5sMQKomyClmmzPI,36,Hoy Yo Viviré
+0R4YEul9NDVzPrVrvmyHkS,35,topspin
+61No7p1QjC00WCWM6wP88E,34,Tu Amor
+0PqrELkc5xaQVFU9cc99Rz,34,Violão Domingueiro
+0IBSKqWL16eHHqXl6HoPWy,34,Me Llevas Más Alto (feat. Alex Campos & Redimi2)
+0zWu1bAGq8Y81raJ0Sme3D,33,Rio Negro
+0NSKiywwGZyL8dvvljO4Vi,31,Me Has Cambiado
+2SL0W4tVllfh1spdklpbvx,31,Never Alone
+29cm9i5SgSLeygfzBMQPMd,30,Radio
+71U4giteG8lowMiW7GC5ou,29,God Is The Peace - Artury Pepper Remix
+4aMp5mjfRKsCCDbA1g35tP,26,throwback
+01EU5xvwVM2bazcXngmBCW,24,Trust (Hold on Tight)
+4c6cZkyUfAhxfHUdy39k1U,24,Fire

@@ -1,0 +1,21 @@
+id,popularity,name
+6Sq7ltF9Qa7SNFBsV5Cogx,100,Me Porto Bonito
+3k3NWokhRRkEPhCzPmV8TW,98,Ojitos Lindos
+1IHWl5LamUGEuP4ozKQSXZ,98,Tití Me Preguntó
+6Xom58OOXk2SoU711L2IXO,97,Moscow Mule
+7dSZ6zGTQx66c2GF91xCrb,96,PROVENZA
+5Eax0qFko2dh7Rl2lYs3bx,96,Efecto
+4tYFy8ALRjIZvnvSLw5lxN,95,Party
+41oY4WCTj5kccfesTVFnvN,94,Tarot
+5CzixCxDkRXX9mScCmah8O,92,Un Ratito
+1797zYiX4cKosMH836X9Gt,92,La Corriente
+4kAtRwNRLMKuoCbxMSxUGI,73,Noche De Sexo
+04uA3BJ1Rj8DBKkpKCABJx,66,Mírala Bien
+5c9CsmVAhOQ5jQKwmNd5fk,64,Saoco
+1eknj4ni0Cbswll0c5Fi3A,62,No Le Temas A Él (feat. Héctor & Tito)
+3FWAWggrMlMaSuBrf5cgKP,55,Machucando
+1w1JMw24Maq2XQKsbkTkS7,53,Gata Gangster
+4j0E4Ir45e3EddzqcjL20b,52,Busco una Mujer
+2yhumMKS2cwLdroqgVnZ5P,52,Te Hago el Amor
+3zxswdYHKQKV9SA8E6eEFH,51,Amor Con la Ropa
+2rVDv85adcXZ39EbOK65wO,49,Ven Pegate

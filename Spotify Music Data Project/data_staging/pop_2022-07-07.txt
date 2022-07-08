@@ -1,0 +1,21 @@
+id,popularity,name
+4LRPiXqCikLlN15c3yImP7,99,As It Was
+6xGruZOHLs39ZbVccQTuPZ,99,Glimpse of Us
+1qEmFfgcLObUfQm0j1W2CK,95,Late Night Talking
+1PckUlxKqWQs3RlWXVBLw3,95,About Damn Time
+4Dvkj6JhhA12EX05fT7y2e,94,As It Was
+29d0nY7TzCoi22XBqDQkiP,92,Running Up That Hill (A Deal With God) - 2018 Remaster
+3F5CgOj3wFlRv51JsHbxhe,92,Jimmy Cooks (feat. 21 Savage)
+6Uj1ctrBOjOas8xZXGqKk4,92,Woman
+6uvh0In7u1Xn4HgxOfAn8O,91,Matilda
+4ZtFanR9U6ndgddUvNcjcG,91,good 4 u
+5LYMamLv12UPbemOaTPyeV,91,Music For a Sushi Restaurant
+2QjOHCTQ1Jl3zawyYOpxh6,90,Sweater Weather
+2KukL7UlQ8TdvpaA7bY3ZJ,90,BREAK MY SOUL
+51Zw1cKDgkad0CXv23HCMU,90,Daylight
+0hquQWY3xvYqN4qtiquniF,90,Vegas (From the Original Motion Picture Soundtrack ELVIS)
+3i058E8uxTsYqJ5NWZzqSj,89,Little Freak
+0rzaRSujxA0bKyjJl6vHYq,88,Satellite
+4j6kId9QIqhoXvqHKgSKa0,88,Grapejuice
+0y60itmpH0aPKsFiGxmtnh,88,Wait a Minute!
+3S68RFe1lsdCdTMPIMJM3X,85,Cash In Cash Out
